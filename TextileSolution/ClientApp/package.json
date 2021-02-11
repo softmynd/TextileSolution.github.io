@@ -2,7 +2,7 @@
   "name": "textilesolution",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/softmynd/TextileSolution.github.io.git",
+  "homepage": "https://softmynd.github.io/TextileSolution.github.io",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "jquery": "^3.4.1",
